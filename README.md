@@ -14,7 +14,7 @@
 
 > Building ML solutions for problems I barely understand. Side effects may include: deployed models, published papers, confused reviewers.
 
-## Projects
+## Current Projects
 
 - 🧬 **[Ribonanza](https://github.com/DrHB/rna-stanford)** - Transformer + Graph Attention Networks for RNA structure and chemical reactivity | Stanford / bioRxiv
 - ✈️ **[Contrail](https://github.com/DrHB/2nd-place-contrails)** - Multi-encoder vision transformers with temporal modeling for satellite imagery | Google Research
