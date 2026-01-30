@@ -16,12 +16,12 @@
 
 ## Current Projects
 
+- 🤖 **[LymeBridge](https://github.com/DrHB/lymebridge)** - Remote control Claude Code through Telegram via tmux
 - 🧬 **[Ribonanza](https://github.com/DrHB/rna-stanford)** - Transformer + Graph Attention Networks for RNA structure and chemical reactivity | Stanford / bioRxiv
 - ✈️ **[Contrail](https://github.com/DrHB/2nd-place-contrails)** - Multi-encoder vision transformers with temporal modeling for satellite imagery | Google Research
 - 🧊 **[DeepIce](https://github.com/DrHB/icecube-2nd-place)** - Graph-based transformers for neutrino tracking in the Antarctic IceCube Observatory | EPJC
 - 🌊 **[Pulsar](https://github.com/DrHB/g2net)** - Deep learning on LIGO spectrograms for neutron star detection | IOP
 - 🔬 **[Gleason](https://github.com/DrHB/prostate-cancer-detection)** - Attention-pooled CNNs for Gleason grading | Nature Medicine
-- 🤖 **[LymeBridge](https://github.com/DrHB/lymebridge)** - Remote control Claude Code through Telegram via tmux
 
 ## Selected Publications
 
