@@ -16,6 +16,7 @@
 
 ## Current Projects
 
+- 🕵️ **[Tab Agent](https://github.com/DrHB/tab-agent)** - Secure browser automation bridge for Claude & Codex — CLI + Chrome Extension
 - 🪲 **[LymeBridge](https://github.com/DrHB/lymebridge)** - Remote control Claude Code through Telegram via tmux
 - 🧬 **[Ribonanza](https://github.com/DrHB/rna-stanford)** - Transformer + Graph Attention Networks for RNA structure and chemical reactivity | Stanford / bioRxiv
 - ✈️ **[Contrail](https://github.com/DrHB/2nd-place-contrails)** - Multi-encoder vision transformers with temporal modeling for satellite imagery | Google Research
