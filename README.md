@@ -16,6 +16,7 @@
 
 ## Current Projects
 
+- 🌳 **[Arbor](https://github.com/DrHB/arbor)** - Stigmergic coordination experiments for LLM agents using shared boards instead of a central supervisor
 - 🕵️ **[Tab Agent](https://github.com/DrHB/tab-agent)** - Secure browser automation bridge for Claude & Codex — CLI + Chrome Extension
 - 🪲 **[LymeBridge](https://github.com/DrHB/lymebridge)** - Remote control Claude Code session through Telegram
 - 🧬 **[Ribonanza](https://github.com/DrHB/rna-stanford)** - Transformer + Graph Attention Networks for RNA structure and chemical reactivity | Stanford / bioRxiv
