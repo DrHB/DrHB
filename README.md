@@ -19,6 +19,7 @@
 - 🌳 **[Arbor](https://github.com/DrHB/arbor)** - Stigmergic coordination experiments for LLM agents using shared boards instead of a central supervisor
 - 🕵️ **[Tab Agent](https://github.com/DrHB/tab-agent)** - Secure browser automation bridge for Claude & Codex — CLI + Chrome Extension
 - 🪲 **[LymeBridge](https://github.com/DrHB/lymebridge)** - Remote control Claude Code session through Telegram
+- ⚡ **[dtree-mlx](https://github.com/DrHB/dtree-mlx)** - Tree-based speculative decoding benchmarks for Qwen3 on Apple Silicon (MLX)
 - 🧬 **[Ribonanza](https://github.com/DrHB/rna-stanford)** - Transformer + Graph Attention Networks for RNA structure and chemical reactivity | Stanford / bioRxiv
 - ✈️ **[Contrail](https://github.com/DrHB/2nd-place-contrails)** - Multi-encoder vision transformers with temporal modeling for satellite imagery | Google Research
 - 🧊 **[DeepIce](https://github.com/DrHB/icecube-2nd-place)** - Graph-based transformers for neutrino tracking in the Antarctic IceCube Observatory | EPJC
