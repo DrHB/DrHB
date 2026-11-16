@@ -16,9 +16,7 @@
 
 ## Current Projects
 
-- 🌳 **[Arbor](https://github.com/DrHB/arbor)** - Stigmergic coordination experiments for LLM agents using shared boards instead of a central supervisor
-- 🕵️ **[Tab Agent](https://github.com/DrHB/tab-agent)** - Secure browser automation bridge for Claude & Codex — CLI + Chrome Extension
-- 🪲 **[LymeBridge](https://github.com/DrHB/lymebridge)** - Remote control Claude Code session through Telegram
+- ⚗️ **[H-Net on SMILES](https://github.com/DrHB/hnet-smiles)** - One tokenizer-free H-Net trained on molecules under four objectives, and where each one learns to cut | [Blog post](https://drhb.github.io/blogposts/posts/learned-cuts/) | [Models](https://huggingface.co/Asimo/hnet-smiles)
 - ⚡ **[dtree-mlx](https://github.com/DrHB/dtree-mlx)** - Tree-based speculative decoding benchmarks for Qwen3 on Apple Silicon (MLX)
 - 🧬 **[Ribonanza](https://github.com/DrHB/rna-stanford)** - Transformer + Graph Attention Networks for RNA structure and chemical reactivity | Stanford / bioRxiv
 - ✈️ **[Contrail](https://github.com/DrHB/2nd-place-contrails)** - Multi-encoder vision transformers with temporal modeling for satellite imagery | Google Research
