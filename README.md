@@ -1,6 +1,6 @@
 # Hi, I'm Habib 👋
 
-USA | ML Generalist | Published Researcher
+USA | ML Generalist | Published Researcher | [Blog](https://drhb.github.io/blogposts/)
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
