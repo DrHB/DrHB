@@ -1,6 +1,6 @@
 # Hi, I'm Habib 👋
 
-USA | ML Generalist | Published Researcher | [Blog](https://drhb.github.io/blogposts/)
+USA | ML Generalist | Published Researcher | [Blog](https://drhb.github.io/blog/)
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
@@ -16,7 +16,7 @@ USA | ML Generalist | Published Researcher | [Blog](https://drhb.github.io/blogp
 
 ## Current Projects
 
-- ⚗️ **[H-Net on SMILES](https://github.com/DrHB/hnet-smiles)** - One tokenizer-free H-Net trained on molecules under four objectives, and where each one learns to cut | [Blog post](https://drhb.github.io/blogposts/posts/learned-cuts/) | [Models](https://huggingface.co/Asimo/hnet-smiles)
+- ⚗️ **[H-Net on SMILES](https://github.com/DrHB/hnet-smiles)** - One tokenizer-free H-Net trained on molecules under four objectives, and where each one learns to cut | [Blog post](https://drhb.github.io/blog/posts/learned-cuts/) | [Models](https://huggingface.co/Asimo/hnet-smiles)
 - ⚡ **[dtree-mlx](https://github.com/DrHB/dtree-mlx)** - Tree-based speculative decoding benchmarks for Qwen3 on Apple Silicon (MLX)
 - 🧬 **[Ribonanza](https://github.com/DrHB/rna-stanford)** - Transformer + Graph Attention Networks for RNA structure and chemical reactivity | Stanford / bioRxiv
 - ✈️ **[Contrail](https://github.com/DrHB/2nd-place-contrails)** - Multi-encoder vision transformers with temporal modeling for satellite imagery | Google Research
